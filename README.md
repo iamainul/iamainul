@@ -27,7 +27,7 @@
 
 ### 🌐 Connect With Me
 <p align="left">
-<a href="mailto:ainulhaq0003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:ainulhaqsde@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://linkedin.com/in/ainulhaqsde"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://github.com/ainulhaqsde"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://portfolio-ainul.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"></a>
@@ -68,7 +68,7 @@
 ---
 
 ### 🏆 Achievements
-- ⭐ Solved **240+ problems** on **LeetCode**  
+- ⭐ Solved **340+ problems** on **LeetCode**  
 - ⭐ 100+ problems on **CodeChef, GFG & others**  
 - ⭐ **4 HackerRank (Algorithmic Thinking)** | **3⭐ HackerRank (C/C++)**  
 - 🥇 Active participant in coding contests & hackathons  
